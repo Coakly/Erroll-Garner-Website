@@ -1,0 +1,130 @@
+@import 'https://fonts.googleapis.com/css2?family=Young+Serif&display=swap';
+    
+body
+{
+        background-color: bisque;
+        font-family: 'Young Serif';
+}
+    
+header 
+{
+        background-image: url('../Images/ErrollGarnerHeader.jpg');
+        background-size: cover;
+        background-position: center;
+        color: rgb(246, 255, 0);
+        text-align: center;
+        padding: 100px 0;
+        font-family: 'Young Serif';
+}
+    
+h1
+{
+        font-family: 'Young Serif';
+        color: rgb(246, 255, 0);
+}
+
+h2
+{
+        font-family: 'Young Serif';
+        color: rgb(77, 33, 33);
+}
+
+h4
+{
+        color: gray
+}
+
+table
+{
+        color: rgb(77, 33, 33)
+}
+
+
+.navbar 
+{        
+    background-color: rgba(77, 33, 33, 0.411);
+    overflow: hidden;
+}
+
+.navbar a 
+{
+    float: left;
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.navbar li 
+{
+    padding: 0 10px;
+}
+
+img 
+{
+    transition: transform 0.3s ease-in-out;
+}
+    
+img:hover 
+{
+    transform: scale(1.1);
+    box-shadow: 3px 3px 5px #888888;
+}
+
+a:hover 
+{
+    transform: scale(1.1);
+    box-shadow: 3px 3px 5px #583a15;
+}
+
+nav.mt-0 
+{
+    margin-top: 0 !important;
+}
+
+.accordion-button
+{
+    color: rgb(77, 33, 33); 
+}
+  
+#collapseTwo
+{
+    color: rgb(77, 33, 33); 
+}
+
+.btn 
+{
+    color: #fff
+}
+
+.btn-outline-success
+{
+    color: #fff
+}
+  
+.me-4
+{
+    color: rgb(77, 33, 33)
+}
+
+
+/* Dark mode & light mode */
+.dark-mode 
+{
+    background-color: black;
+    color: rgb(145, 145, 145);
+}
+
+.light-mode 
+{
+    background-color: bisque;
+    color: black;
+}
+
+#mode 
+{
+    width: 50%;
+    height: 50%;
+}
+
