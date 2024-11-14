@@ -29,14 +29,20 @@ h2
         color: rgb(77, 33, 33);
 }
 
+h3
+{
+        font-family: 'Young Serif';
+        color: rgb(77, 33, 33);
+}
+
 h4
 {
-        color: gray
+        color: rgb(77, 33, 33);
 }
 
 table
 {
-        color: rgb(77, 33, 33)
+        color: rgb(77, 33, 33);
 }
 
 
